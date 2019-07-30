@@ -1,4 +1,4 @@
 # ArkanoidGame
 
-Console based game developed by Java
+Console based game developed using Java
 info: https://en.wikipedia.org/wiki/Arkanoid
